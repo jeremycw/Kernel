@@ -1,0 +1,8 @@
+*.o
+pad
+stage1
+stage2
+*.ncf
+*.elf
+*.img
+*.bin
